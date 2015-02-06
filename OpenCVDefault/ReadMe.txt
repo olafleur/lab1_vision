@@ -2,6 +2,8 @@
    APPLICATION CONSOLE : Vue d'ensemble du projet OpenCVDefault
 ========================================================================
 
+N'importe quelle modif
+
 AppWizard a créé cette application OpenCVDefault pour vous.
 
 Ce fichier contient un résumé des éléments contenus dans chaque fichier qui
